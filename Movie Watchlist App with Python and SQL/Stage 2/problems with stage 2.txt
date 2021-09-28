@@ -1,0 +1,2 @@
+- marking the movie as watched removes it from the movies table
+- we can't distinguish between 2 users with the same username
